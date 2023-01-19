@@ -1,0 +1,2011 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+ <head>
+  <script async="" src="/Lymberland-flye-Ile-hat-lost-yet-to-exploits-hau">
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <style id="aoatfcss" media="all">
+   *{margin:0;padding:0;word-break:break-word;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}img{border:0;max-width:100%;height:auto;display:block}input[type=submit]{overflow:visible;-webkit-appearance:none}@font-face{font-family:FontAwesome;src:url(/wp-content/thesis/skins/inspired-taste/font/fontawesome-webfont.eot?v=3.2.1);src:url(/wp-content/thesis/skins/inspired-taste/font/fontawesome-webfont.eot?) format('embedded-opentype'),url(/wp-content/thesis/skins/inspired-taste/font/fontawesome-webfont.woff?v=3.2.1) format('woff'),url(/wp-content/thesis/skins/inspired-taste/font/fontawesome-webfont.ttf?v=3.2.1) format('truetype'),url(/wp-content/thesis/skins/inspired-taste/font/fontawesome-webfont.svg) format('svg');font-weight:400;font-style:normal}.about-box:after,.byline:after,.header-bottom:after,.header-top:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}body{font-family:Arial,Helvetica,sans-serif;font-size:19px;line-height:28px;color:#333;background-color:#fff}.inner-page{width:1134px;margin:13px auto;padding-bottom:30px}.sidebar .widget,.sidebar-post,p{margin-bottom:26px}h1,h2,h3{color:#f36653;margin-bottom:13px;line-height:36px;font-weight:700}h1.headline{font-size:32px;text-align:center}h2{font-size:28px}h3{font-size:26px}figure{margin-bottom:20px}.about-box,.footer,.header-bottom,.sidebar-optin{border-radius:3px}.template-single h1.headline{margin-bottom:6px}a{color:#489ea8;text-decoration:none}::marker{color:#489ea8;font-weight:700}.content-box,.footer,.header{padding-left:13px;padding-right:13px}#site_title{float:left;background-size:contain}.header-top{overflow:hidden;margin-bottom:0}.header-bottom{background-color:#5baeb8;border-radius:0;z-index:999;overflow:visible}#site_title a,.menu a,a,a img{opacity:1}#site_title a{text-indent:100%;white-space:nowrap;overflow:hidden;background:url(/wp-content/thesis/skins/inspired-taste/images/logo.png) 0 0/contain no-repeat;width:375px;height:74px;float:left;margin-top:20px;word-wrap:normal}.menu a{text-decoration:none;font-weight:400}.menu-main{margin:0;padding:0;list-style:none;float:left}.menu-main ul{min-width:225px;margin:0;padding:0;list-style:none;position:absolute;background-color:#5baeb8;z-index:9999;top:40px;left:0}.menu-main ul ul{top:0;left:225px}.menu-main li{display:inline-block;position:relative;text-align:left;font-size:16px}ul.menu-main li li,ul.menu-main li li a,ul.menu-main ul.sub-menu{display:none}.menu-main a{text-decoration:none;display:block;white-space:nowrap;font-size:18px;padding:8px 15px;color:#fff}.menu-main .menu-item-has-children a{padding-right:25px;position:relative}.menu-main .sub-menu a{text-transform:lowercase;padding-top:8px;padding-bottom:8px}.menu-main .sub-menu .sub-menu a{text-transform:lowercase;font-style:italic}.menu-main .menu-item-has-children>a::before{content:"";position:absolute;right:10px;top:50%;transform:translateY(-50%);border:4px solid transparent;border-top-color:currentColor}.menu-main ul .menu-item-has-children>a::before{right:10px;border-top-color:transparent;border-left-color:currentColor}.search-form{float:right;margin-right:13px;background-color:#fff;border-radius:15px;padding-left:6px;padding-right:6px;padding-bottom:1px;width:25%;margin-top:8px;height:25px;position:absolute;right:0}.search-form form{margin-top:-3px}.search-form p{margin-bottom:0}.search-form input[type=text]{border:none;padding:2px 5px;color:#888;font-size:11px;width:85%}.search-form input[type=submit]{border:none;background-image:url(/wp-content/thesis/skins/inspired-taste/images/searchicon.png);background-repeat:no-repeat;background-position:right;background-size:15px 16px;background-color:transparent;width:10%;min-width:15px;height:16px;margin-right:4px;opacity:.8;padding:0 5px;display:block;float:right;margin-top:8px;text-indent:9999px;overflow:hidden}.house-ad img{border:1px solid #ddd;padding:3px}.header-ad{width:728px;height:94px;float:right}.sidebar-ad-1{width:300px}.content-box{margin-top:13px;margin-bottom:26px;overflow:inherit}.content{width:640px;margin-left:26px;margin-bottom:26px}.byline,.content img{margin-bottom:13px}a:-webkit-any-link{text-decoration:none}.icon-facebook:before,.icon-instagram:before,.icon-pinterest:before,.icon-rss:before,.icon-twitter:before,.icon-youtube:before{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-family:FontAwesome}.icon-twitter:before{content:'\f099'}.icon-facebook:before{content:'\f09a'}.icon-rss:before{content:'\f09e'}.icon-youtube:before{content:'\f167'}.icon-instagram:before{content:'\f16d'}.icon-pinterest:before{content:'\f0d2'}.profile-icon{display:inline-block;text-decoration:none;line-height:1em;margin-right:6px;font-size:24px;color:#5baeb8;opacity:.5}.profile-icons{text-align:center;margin-bottom:26px;margin-top:0}.profile-icon:last-child{margin-right:0}.sidebar{font-size:16px;line-height:22px;margin-top:3px}.sidebar p{margin-bottom:13px}.email_form_title,.widget_title{text-transform:uppercase;font-size:14px;margin-bottom:6px!important}.sidebar-left .menu{list-style-type:none;margin-bottom:13px}.sidebar-left .menu a{font-weight:400;padding-bottom:5px}.sidebar-left{width:115px}.sidebar-left a{font-size:19px;line-height:28px;display:block}.content,.sidebar{float:left}.sidebar h3{margin-top:13px;margin-bottom:6px;text-transform:uppercase;font-size:16px;line-height:20px}.sidebar-right{width:300px;margin-left:26px}.about-box{padding:13px;background-color:#f6f6f6;height:188px;margin-bottom:13px}.about-box img{float:right;margin-top:-32px;margin-right:-25px}.optin{background-color:#bbd864;position:relative;border:1px solid rgba(0,0,0,.06)}.sidebar-optin{padding:13px}.optin input[type=submit]{position:absolute;width:52px;height:52px;font-size:16px;letter-spacing:1px;color:#fff;background-color:#5baeb8;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;text-transform:uppercase;border:1px solid rgba(0,0,0,.06);-webkit-appearance:none}.sidebar-optin input[type=submit]{right:-10px;bottom:-10px}.footer{background-color:#5baeb8;padding-top:13px;padding-bottom:1px;margin-top:13px;color:#fff;text-align:center;font-size:14px;line-height:20px;clear:both}#cancel-comment-reply-link{padding:3px 10px;background-color:#5baeb8;color:#fff;font-size:13px;border:double;text-transform:uppercase;-webkit-appearance:none;float:right}.sidebar-post img{border:1px solid #ddd;padding:5px}#commentform input,#commentform textarea{box-shadow:none;padding:5px;font-size:14px;border:1px solid #ddd;color:#777}.itr-rating{text-align:center}.itr-jump{text-align:center;height:100%;background-color:#5baeb8;font-size:18px;display:block;width:142px;margin:8px auto 0;color:#fff;border:double}.itr-jump a{color:#fff;padding:1px}div.rating .seperator{color:#000}.yellow{fill:#ffd055;fill-rule:nonzero}.grey{fill:#d8d8d8;fill-rule:nonzero}.slicknav_menu{display:none;position:relative}.itr-jump.itr-jump-video {width: 208px}@media all and (max-width:1160px){.sidebar-left{display:none}.header-ad{float:none;margin:0 auto}.header-ad-container{background-color:#f6f6f6;padding:5px 0;display:none}.inner-page{width:100%}.content-box{margin-right:330px}.sidebar-right{width:300px;margin-right:-330px}.content{width:100%;margin-left:0}.footer{border-radius:0}#site_title{float:none}#site_title a{width:100%;background-position:center;background-size:contain;overflow:visible;height:100px;margin-top:0}}@media all and (max-width:970px){#site_title a,.header-bottom .search-form{display:none}.header-bottom .search-form input[type=text]{padding-bottom:8px;background:0 0}.header-bottom{padding-left:0;padding-right:0;border-bottom:1px solid #fff;width:100%;min-height:51px}.menu-main{display:none}.menu-main li{display:block}.slicknav_menu{display: block}}@media all and (max-width:767px){.search-form{width:55%}.content,.sidebar{float:none}.content-box{margin-right:0}.sidebar-right{margin-left:auto;margin-right:auto}}@media all and (max-width:590px){.header-ad-container{background-color:#f6f6f6;padding:5px 0;display:none}.search-form{width:58%}.header-ad{height:auto;width:320px}}@media all and (max-width:500px){#site_title a{height:74px;margin-top:0}.header-ad-container{background-color:#f6f6f6;padding:5px 0;display:none}.sidebar-ad-1{margin-top:26px}.about-box{height:auto;text-align:center}.about-box img{float:none;margin:0 auto}}.ai-viewport-3{display:none!important}@media (max-width:767px){.ai-viewport-3{display:inherit!important}}
+  </style>
+  <link href="https://www.inspiredtaste.net/wp-content/cache/autoptimize/css/autoptimize_6e9222581d4246b8ad2ff7a239b9c285.css" media="print" onload="this.onload=null;this.media='all';" rel="stylesheet"/>
+  <noscript id="aonoscrcss">
+   <link href="https://www.inspiredtaste.net/wp-content/cache/autoptimize/css/autoptimize_6e9222581d4246b8ad2ff7a239b9c285.css" media="all" rel="stylesheet"/>
+  </noscript>
+  <title>
+   Easy Fudgy Brownies From Scratch (Our Favorite)
+  </title>
+  <meta content="Rich and fudgy brownies recipe made from scratch with dense, fudgy middles and the best crinkly tops! They are much better than the box, just read the reviews!" name="description"/>
+  <meta content="noodp, noydir" name="robots"/>
+  <link href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/" rel="canonical"/>
+  <link href="https://c.jsrdn.com" rel="preconnect"/>
+  <link href="https://s.jsrdn.com" rel="preconnect"/>
+  <script async="" charset="UTF-8" data-domain-script="a56c6371-11d0-4a36-9735-e92700d0a402" src="https://cdn.cookielaw.org/consent/a56c6371-11d0-4a36-9735-e92700d0a402/otSDKStub.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function OptanonWrapper() { }
+  </script>
+  <script async="" src="https://tagan.adlightning.com/inspiredtaste/op.js" type="text/javascript">
+  </script>
+  <script>
+   window.top.adGrid = window.top.adGrid || {};
+  window.top.adGrid.cmd = window.top.adGrid.cmd || [];
+  var adGridInitiate = function() {
+    this.adGridCall(function () {
+      var pageMeta = {};
+      this.setMetaDataFromPage(pageMeta);
+    })
+  };
+  window.top.adGrid.cmd.push([adGridInitiate]);
+  </script>
+  <script async="" src="//c.jsrdn.com/s/cs.js?p=22644" type="text/javascript">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-10461159-4">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-10461159-4');
+  </script>
+  <link href="https://www.inspiredtaste.net/wp-content/uploads/2016/06/favicon-32x32.png" rel="shortcut icon">
+   <meta content="max-image-preview:large" name="robots"/>
+   <script type="application/ld+json">
+    {"@context": "https://schema.org/","@type": "Recipe", "name": "Easy Fudgy Brownies From Scratch (Our Favorite)", "image": "https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg", "author": {"@type": "Person", "name": "Adam and Joanne Gallagher"}, "datePublished": "2020-10-01", "dateModified": "2021-09-14", "description": "Our favorite brownies recipe from scratch. You only need one bowl, a saucepan, and a spoon. In the first step, we ask that you melt the butter with sugar, cocoa powder, and salt in a bowl set over a saucepan of simmering water. This process ensures that crinkly top that we all love. You can do this step in the microwave, but I do find the stovetop method to be more consistent. These brownies aren&#8217;t too sweet. If you are like us and find yourself reaching for darker chocolate over milk chocolate, these are most certainly for you. Use natural or Dutch-process cocoa powder for these (cacao powder works, too). I especially love using Droste Cacao (a Dutch process powder).", "prepTime": "PT15M", "cookTime": "PT30M", "totalTime": "PT45M", "recipeYield": "Makes 16 Brownies", "recipeCategory": "Dessert", "recipeCuisine": "American", "keywords": "easy cocoa brownies from scratch", "nutrition": {"@type": "NutritionInformation","servingSize": "1 brownie","calories": "158","proteinContent": "2 g","carbohydrateContent": "21 g","fiberContent": "2 g","sugarContent": "16 g","fatContent": "8 g","saturatedFatContent": "5 g","cholesterolContent": "42 mg"}, "recipeIngredient": ["10 tablespoons (145 grams) unsalted butter","1 ¼ cups (250 grams) granulated sugar","3/4 cup plus 2 tablespoons (80 grams) unsweetened cocoa powder, natural or Dutch-process","1/4 rounded teaspoon kosher salt, use slightly less if using fine sea or table salt","1 teaspoon vanilla extract","2 large cold eggs","1/2 cup (65 grams) all-purpose flour","2/3 cup (75 grams) chopped walnuts or pecans, optional"], "recipeInstructions": [ "Position an oven rack in the lower third of the oven and heat to 325 degrees F. Line the bottom and sides of an 8-inch square baking pan with parchment paper or aluminum foil, leaving an overhang on two opposite sides. (This helps when removing the baked brownies from the pan, once cooled).", "Add enough water to a medium saucepan so that it is 1 to 2 inches deep. Heat water until barely simmering.", "Combine butter, sugar, cocoa powder, and salt in a medium heat-safe bowl. Rest the bowl over simmering water (if the bottom of the bowl touches the water, remove a little water). Stir the mixture occasionally until the butter has melted and the mixture is quite warm. Don’t worry if it looks gritty; it will become smooth once you add the eggs and flour.", "Remove the bowl from heat and set aside for 3 to 5 minutes until it is only warm, not hot. Stir in the vanilla with a spoon. Then add the eggs, one at a time, stirring vigorously after each one.", "When the batter looks thick, shiny, and well blended, add the flour and stir until fully incorporated, then beat with the wooden spoon or spatula for 40 to 50 strokes. (The batter will be thick). Beat vigorously here. You want to see the brownie batter pulling away from the sides of the bowl (if you do not have the strength to do this by hand, use a hand mixer). Stir in nuts, if using. Spread evenly in lined pan.", "Bake the brownies for 20 to 25 minutes or until a toothpick can be inserted into the center and come out with a few moist crumbs. As a visual test, brownies are done when the edges will look dry and the middle still looks slightly underbaked.", "Some readers have found they need to bake an extra 5 to 10 minutes. Brownies are easy to overbake so keep an eye on the doneness of the brownies and use the visual and toothpick test as your guide.", "Cool completely then remove from pan. For the cleanest lines when cutting, place into the freezer for 20 to 30 minutes to firm up. Cut into 16 squares."], "video": {"@type": "VideoObject","embedUrl":"https://www.youtube.com/embed/i31mrIYNheI","thumbnailUrl":"https://i.ytimg.com/vi/i31mrIYNheI/maxresdefault.jpg","name":"Our Favorite Easy Fudgy Brownies From Scratch - Updated","description":"Easy brownies recipe from scratch that's way better than the box. Fudgy brownies with cocoa powder, butter, eggs, and sugar. Recipe and video included!","duration":"PT2M52S","uploadDate":"2016-09-02","contentUrl":"https://www.youtube.com/watch?v=i31mrIYNheI"}, 
+"aggregateRating": {"@type": "AggregateRating","ratingValue": "4.8","reviewCount": "885"}
+}
+   </script>
+   <link href="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Resized_Inspired-Taste-Site-Icon-144x144.png" rel="icon" sizes="32x32">
+    <link href="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Resized_Inspired-Taste-Site-Icon-144x144.png" rel="icon" sizes="192x192"/>
+    <link href="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Resized_Inspired-Taste-Site-Icon-144x144.png" rel="apple-touch-icon"/>
+    <meta content="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Resized_Inspired-Taste-Site-Icon-144x144.png" name="msapplication-TileImage"/>
+    <meta content="Easy Fudgy Brownies From Scratch (Our Favorite)" property="og:title"/>
+    <meta content="article" property="og:type"/>
+    <meta content="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg" property="og:image"/>
+    <meta content="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/" property="og:url"/>
+    <meta content="Inspired Taste - Easy Recipes for Home Cooks" property="og:site_name"/>
+    <meta content="Rich and fudgy brownies recipe made from scratch with dense, fudgy middles and the best crinkly tops! They are much better than the box, just read the reviews!" property="og:description"/>
+    <meta content="117150757823" property="fb:app_id"/>
+   </link>
+  </link>
+ </head>
+ <body class="template-single">
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@inspiredtaste" name="twitter:site"/>
+  <meta content="@inspiredtaste" name="twitter:creator"/>
+  <div class="header-bottom">
+   <ul class="menu menu-main" id="menu-main-november-2018">
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-37829" id="menu-item-37829">
+     <a href="https://www.inspiredtaste.net/">
+      Home
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37826" id="menu-item-37826">
+     <a href="https://www.inspiredtaste.net/aboutus/">
+      About Us
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37830" id="menu-item-37830">
+     <a href="/recipe-index/">
+      Browse Recipes
+     </a>
+     <ul class="sub-menu">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37822" id="menu-item-37822">
+       <a href="/recipe-index/#recipes-by-category">
+        Recipes by Category
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37838" id="menu-item-37838">
+         <a href="https://www.inspiredtaste.net/category/recipes/recipe-videos/">
+          Recipe Videos
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37880" id="menu-item-37880">
+         <a href="https://www.inspiredtaste.net/category/recipes/favorite-recipes/">
+          Our Favorites
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37879" id="menu-item-37879">
+         <a href="https://www.inspiredtaste.net/category/recipes/meatless-recipes/">
+          Meatless
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37823" id="menu-item-37823">
+         <a href="https://www.inspiredtaste.net/category/recipes/main-dishes/">
+          Dinner
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37824" id="menu-item-37824">
+         <a href="https://www.inspiredtaste.net/category/recipes/soup-and-stew-recipes/">
+          Soups and Stews
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37825" id="menu-item-37825">
+         <a href="https://www.inspiredtaste.net/category/recipes/appetizer-recipes/">
+          Appetizers
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37831" id="menu-item-37831">
+         <a href="https://www.inspiredtaste.net/category/recipes/side-dishes/">
+          Side Dishes
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37833" id="menu-item-37833">
+         <a href="https://www.inspiredtaste.net/category/recipes/breakfast-recipes/">
+          Breakfast
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37834" id="menu-item-37834">
+         <a href="https://www.inspiredtaste.net/category/recipes/baking-and-pastry-recipes/">
+          Baking
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37835" id="menu-item-37835">
+         <a href="https://www.inspiredtaste.net/category/recipes/quick-recipes/">
+          Quick
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37836" id="menu-item-37836">
+         <a href="https://www.inspiredtaste.net/tag/popular-recipes/">
+          Popular
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37837" id="menu-item-37837">
+         <a href="https://www.inspiredtaste.net/category/recipes/make-ahead-recipes/">
+          Make Ahead
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37878" id="menu-item-37878">
+         <a href="https://www.inspiredtaste.net/category/recipes/cocktail-recipes/">
+          Cocktails
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37871" id="menu-item-37871">
+         <a href="/recipe-index/#recipes-by-category">
+          View All »
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37839" id="menu-item-37839">
+       <a href="/recipe-index/#recipes-by-diet">
+        Recipes by Diet
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37840" id="menu-item-37840">
+         <a href="https://www.inspiredtaste.net/tag/gluten-free/">
+          Gluten-free
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-40614" id="menu-item-40614">
+         <a href="https://www.inspiredtaste.net/tag/dairy-free/">
+          Dairy-free
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37841" id="menu-item-37841">
+         <a href="https://www.inspiredtaste.net/tag/light-recipes/">
+          Light
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37843" id="menu-item-37843">
+         <a href="https://www.inspiredtaste.net/tag/low-carb/">
+          Low-Carb
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37842" id="menu-item-37842">
+         <a href="https://www.inspiredtaste.net/tag/vegetarian/">
+          Vegetarian
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-40686" id="menu-item-40686">
+         <a href="https://www.inspiredtaste.net/tag/vegan/">
+          Vegan
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37874" id="menu-item-37874">
+         <a href="/recipe-index/#recipes-by-diet">
+          View All »
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37844" id="menu-item-37844">
+       <a href="/recipe-index/#recipes-by-season">
+        Recipes by Season
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37845" id="menu-item-37845">
+         <a href="https://www.inspiredtaste.net/tag/spring/">
+          Spring
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37846" id="menu-item-37846">
+         <a href="https://www.inspiredtaste.net/tag/summer-recipes/">
+          Summer
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37847" id="menu-item-37847">
+         <a href="https://www.inspiredtaste.net/tag/fall/">
+          Fall
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37848" id="menu-item-37848">
+         <a href="https://www.inspiredtaste.net/tag/winter/">
+          Winter
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37849" id="menu-item-37849">
+         <a href="https://www.inspiredtaste.net/tag/holiday-recipes/">
+          Holiday
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37850" id="menu-item-37850">
+         <a href="https://www.inspiredtaste.net/tag/thanksgiving/">
+          Thanksgiving
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37873" id="menu-item-37873">
+         <a href="/recipe-index/#recipes-by-season">
+          View All »
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37851" id="menu-item-37851">
+       <a href="/recipe-index/#popular-ingredients">
+        Popular Ingredients
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37852" id="menu-item-37852">
+         <a href="https://www.inspiredtaste.net/tag/chicken/">
+          Chicken
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37853" id="menu-item-37853">
+         <a href="https://www.inspiredtaste.net/tag/pork/">
+          Pork
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37854" id="menu-item-37854">
+         <a href="https://www.inspiredtaste.net/tag/beef/">
+          Beef
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37855" id="menu-item-37855">
+         <a href="https://www.inspiredtaste.net/tag/seafood/">
+          Seafood
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37856" id="menu-item-37856">
+         <a href="https://www.inspiredtaste.net/tag/shrimp/">
+          Shrimp
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37857" id="menu-item-37857">
+         <a href="https://www.inspiredtaste.net/tag/salmon/">
+          Salmon
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37858" id="menu-item-37858">
+         <a href="https://www.inspiredtaste.net/tag/vegetable/">
+          Vegetables
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37859" id="menu-item-37859">
+         <a href="https://www.inspiredtaste.net/tag/pasta/">
+          Pasta
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37860" id="menu-item-37860">
+         <a href="https://www.inspiredtaste.net/tag/turkey/">
+          Turkey
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-37861" id="menu-item-37861">
+         <a href="https://www.inspiredtaste.net/tag/avocado/">
+          Avocado
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37872" id="menu-item-37872">
+         <a href="/recipe-index/#popular-ingredients">
+          View All »
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39047" id="menu-item-39047">
+     <a href="https://www.inspiredtaste.net/recipe-index/">
+      Recipe Index
+     </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37875" id="menu-item-37875">
+     <a href="https://www.inspiredtaste.net/subscribe/" title="Subscribe">
+      Subscribe
+     </a>
+    </li>
+   </ul>
+   <div class="widget search-form search-form" id="thesis-search-widget-2">
+    <form action="https://www.inspiredtaste.net" class="search_form" method="get">
+     <p>
+      <input class="input_text" id="s" name="s" onblur="if (this.value == '') {this.value = 'Search Inspired Taste';}" onfocus="if (this.value == 'Search Inspired Taste') {this.value = '';}" type="text" value="Search Inspired Taste"/>
+      <input id="searchsubmit" type="submit" value="Go"/>
+     </p>
+    </form>
+   </div>
+  </div>
+  <div class="inner-page">
+   <div class="header">
+    <div class="header-top">
+     <div class="header-ad-container">
+      <div class="text_box ad header-ad">
+       <div class="adgrid ad_leaderboard_top" data-adgrid-iuparts="/16916776/inspiredtaste/leaderboard_top">
+       </div>
+      </div>
+     </div>
+     <div class="has-logo" id="site_title">
+      <a href="https://www.inspiredtaste.net">
+       Inspired Taste – Easy Recipes for Home Cooks
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="content-box">
+    <div class="sidebar sidebar-left">
+     <div class="widget widget_nav_menu" id="nav_menu-9">
+      <p class="widget_title">
+       Browse
+      </p>
+      <div class="menu-sidebar-browse-recipes-container">
+       <ul class="menu" id="menu-sidebar-browse-recipes">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26134" id="menu-item-26134">
+         <a href="https://www.inspiredtaste.net/category/recipes/">
+          All Recipes
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26135" id="menu-item-26135">
+         <a href="https://www.inspiredtaste.net/category/recipes/recipe-videos/">
+          Videos
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37199" id="menu-item-37199">
+         <a href="https://www.inspiredtaste.net/tag/popular-recipes/">
+          Popular
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37200" id="menu-item-37200">
+         <a href="https://www.inspiredtaste.net/category/recipes/favorite-recipes/">
+          Favorites
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="widget widget_nav_menu" id="nav_menu-14">
+      <p class="widget_title">
+       By Diet
+      </p>
+      <div class="menu-sidebar-by-diet-container">
+       <ul class="menu" id="menu-sidebar-by-diet">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41227" id="menu-item-41227">
+         <a href="https://www.inspiredtaste.net/tag/vegetarian/">
+          Vegetarian
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41225" id="menu-item-41225">
+         <a href="https://www.inspiredtaste.net/tag/low-carb/">
+          Low-Carb
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41222" id="menu-item-41222">
+         <a href="https://www.inspiredtaste.net/tag/dairy-free/">
+          Dairy-free
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41223" id="menu-item-41223">
+         <a href="https://www.inspiredtaste.net/tag/gluten-free/">
+          Gluten-Free
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41224" id="menu-item-41224">
+         <a href="https://www.inspiredtaste.net/tag/light-recipes/">
+          Light
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-41226" id="menu-item-41226">
+         <a href="https://www.inspiredtaste.net/tag/vegan/">
+          Vegan
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="widget widget_nav_menu" id="nav_menu-10">
+      <p class="widget_title">
+       By Category
+      </p>
+      <div class="menu-sidebar-by-category-container">
+       <ul class="menu" id="menu-sidebar-by-category">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26136" id="menu-item-26136">
+         <a href="https://www.inspiredtaste.net/category/recipes/appetizer-recipes/">
+          Appetizers
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-31326" id="menu-item-31326">
+         <a href="https://www.inspiredtaste.net/category/recipes/baking-and-pastry-recipes/">
+          Baking
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26137" id="menu-item-26137">
+         <a href="https://www.inspiredtaste.net/category/recipes/breakfast-recipes/">
+          Breakfast
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26140" id="menu-item-26140">
+         <a href="https://www.inspiredtaste.net/category/recipes/main-dishes/">
+          Dinner
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26144" id="menu-item-26144">
+         <a href="https://www.inspiredtaste.net/category/recipes/soup-and-stew-recipes/">
+          Soups
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26142" id="menu-item-26142">
+         <a href="https://www.inspiredtaste.net/category/recipes/side-dishes/">
+          Sides
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26139" id="menu-item-26139">
+         <a href="https://www.inspiredtaste.net/category/recipes/dessert-recipes/">
+          Desserts
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26138" id="menu-item-26138">
+         <a href="https://www.inspiredtaste.net/category/recipes/cocktail-recipes/">
+          Cocktails
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-31798" id="menu-item-31798">
+         <a href="https://www.inspiredtaste.net/category/recipes/date-night-recipes/">
+          Date Night
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26143" id="menu-item-26143">
+         <a href="https://www.inspiredtaste.net/category/recipes/snack-recipes/">
+          Snacks
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37137" id="menu-item-37137">
+         <a href="https://www.inspiredtaste.net/category/recipes/make-ahead-recipes/">
+          Make Ahead
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="widget widget_nav_menu" id="nav_menu-11">
+      <p class="widget_title">
+       By Ingredient
+      </p>
+      <div class="menu-sidebar-by-ingredient-container">
+       <ul class="menu" id="menu-sidebar-by-ingredient">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26152" id="menu-item-26152">
+         <a href="https://www.inspiredtaste.net/tag/avocado/">
+          Avocado
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26146" id="menu-item-26146">
+         <a href="https://www.inspiredtaste.net/tag/beef/">
+          Beef
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26155" id="menu-item-26155">
+         <a href="https://www.inspiredtaste.net/tag/bacon/">
+          Bacon
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26145" id="menu-item-26145">
+         <a href="https://www.inspiredtaste.net/tag/chicken/">
+          Chicken
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26154" id="menu-item-26154">
+         <a href="https://www.inspiredtaste.net/tag/cheese/">
+          Cheese
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26153" id="menu-item-26153">
+         <a href="https://www.inspiredtaste.net/tag/egg/">
+          Egg
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36293" id="menu-item-36293">
+         <a href="https://www.inspiredtaste.net/tag/mushroom/">
+          Mushrooms
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26151" id="menu-item-26151">
+         <a href="https://www.inspiredtaste.net/tag/pasta/">
+          Pasta
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26147" id="menu-item-26147">
+         <a href="https://www.inspiredtaste.net/tag/pork/">
+          Pork
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26156" id="menu-item-26156">
+         <a href="https://www.inspiredtaste.net/tag/salmon/">
+          Salmon
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26149" id="menu-item-26149">
+         <a href="https://www.inspiredtaste.net/tag/seafood/">
+          Seafood
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26148" id="menu-item-26148">
+         <a href="https://www.inspiredtaste.net/tag/turkey/">
+          Turkey
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26150" id="menu-item-26150">
+         <a href="https://www.inspiredtaste.net/tag/vegetable/">
+          Vegetables
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26157" id="menu-item-26157">
+         <a href="https://www.inspiredtaste.net/tag/shrimp/">
+          Shrimp
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="widget widget_nav_menu" id="nav_menu-13">
+      <p class="widget_title">
+       Cooking Tips
+      </p>
+      <div class="menu-sidebar-cooking-tips-container">
+       <ul class="menu" id="menu-sidebar-cooking-tips">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26160" id="menu-item-26160">
+         <a href="https://www.inspiredtaste.net/23326/oven-temperature-conversion/">
+          Temperature Conversion
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="content">
+     <div class="query_box house-ad" itemscope="" itemtype="https://schema.org/WebPage">
+      <div class="post_content" itemprop="text">
+       <a href="https://www.inspiredtaste.net/subscribe/">
+        <img alt="" class="house alignnone wp-image-51315 size-full" height="180" sizes="(max-width: 1280px) 100vw, 1280px" src="https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo.jpg 1280w, https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo-300x42.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo-1024x144.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo-1200x169.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2021/09/eCookbook-with-Logo-768x108.jpg 768w" width="1280"/>
+       </a>
+       <!-- AI CONTENT END 1 -->
+      </div>
+     </div>
+     <div class="post_box top" id="post-24412" itemscope="" itemtype="https://schema.org/WebPage">
+      <link href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/" itemprop="mainEntityOfPage"/>
+      <h1 class="headline" itemprop="headline">
+       Easy Fudgy Brownies From Scratch (Our Favorite)
+      </h1>
+      <div class="itr-rating">
+       <div class="itr-rate-stars">
+        <a href="#comments">
+         <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+          <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+          </polygon>
+         </svg>
+         <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+          <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+          </polygon>
+         </svg>
+         <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+          <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+          </polygon>
+         </svg>
+         <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+          <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+          </polygon>
+         </svg>
+         <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+          <defs>
+           <lineargradient id="linear" x1="0%" x2="100%" y1="0%" y2="0%">
+            <stop offset="0%" stop-color="#ffd055">
+            </stop>
+            <stop offset="80%" stop-color="#ffd055">
+            </stop>
+            <stop offset="80%" stop-color="#d8d8d8">
+            </stop>
+            <stop offset="100%" stop-color="#d8d8d8">
+            </stop>
+           </lineargradient>
+          </defs>
+          <polygon class="partial" fill="url(#linear)" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+          </polygon>
+         </svg>
+        </a>
+       </div>
+       <div class="rating">
+        <a href="#comments">
+         <span class="comments">
+          1799 comments
+         </span>
+         <span class="seperator">
+          /
+         </span>
+         <span class="rating-count">
+          885 reviews
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="itr-jump itr-jump-video">
+       <a href="#itr-recipe-24412">
+        Jump to Recipe + Video
+       </a>
+      </div>
+      <div class="byline">
+      </div>
+      <div class="post_content" itemprop="text">
+       <p>
+        <strong>
+         This is my absolute favorite brownie recipe.
+        </strong>
+        They are rich, fudgy in the middle, and made completely from scratch. These brownies are so much better than the box, and I bet you have what you need to make them already sitting in your kitchen.
+        <a href="#itr-recipe-24412">
+         <strong>
+          Jump to the Easy Fudgy Brownies Recipe
+         </strong>
+        </a>
+       </p>
+       <figure class="wp-block-image size-full">
+        <img alt="Fudgy Brownies Made from Scratch" class="wp-image-30236" height="800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-2-1200-188x125.jpg 188w" width="1200"/>
+       </figure>
+       <h2>
+        We Honestly Think This is the Best Brownie Recipe
+       </h2>
+       <p>
+        I know that saying these are the “best brownies, ever” is a bold statement, but we truly believe it. I love brownies that are rich and extra chocolaty. These brownies with dense, fudgy middles and crinkly tops absolutely deliver!
+        <strong>
+         These are perfect for boxed brownie lovers
+        </strong>
+        — the dense, moist, and fudgy texture is not all that different from what you can expect from the boxed mixes. It get’s better, though. These brownies are much more flavorful than anything made from a box. They taste amazing.
+       </p>
+       <div class="code-block code-block-8" style="margin: 8px 0; clear: both;">
+        <div style="width: 100%;padding-top: 56.25%;padding-bottom: 120px;position: relative;">
+         <div id="ds_base_anchor" style="position: absolute;top: 0; bottom: 0; left: 0; right: 0;">
+         </div>
+        </div>
+       </div>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="Perfect chocolate brownies with crinkly tops" class="wp-image-30237" height="1798" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-534x800.jpg 534w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-200x300.jpg 200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-768x1151.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-683x1024.jpg 683w" width="1200"/>
+        </noscript>
+        <img alt="Perfect chocolate brownies with crinkly tops" class="lazyload wp-image-30237" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-534x800.jpg 534w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-200x300.jpg 200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-768x1151.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-3-1200-683x1024.jpg 683w" height="1798" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%201798%22%3E%3C/svg%3E" width="1200"/>
+       </figure>
+       <h3>
+        Brownie Ingredients
+       </h3>
+       <p>
+        <strong>
+         These brownies require one bowl and come together in minutes
+        </strong>
+        . There’s also a good chance you already have the ingredients on hand. Let me walk you through the steps for making them. Now if you love simple recipes like this one, take a look at
+        <a data-id="23801" data-type="post" href="https://www.inspiredtaste.net/23801/no-fail-blondies-recipe/">
+         these blondies
+        </a>
+        or my
+        <a data-id="24575" data-type="post" href="https://www.inspiredtaste.net/24575/chocolate-chip-cookies-recipe/">
+         favorite chocolate chip cookies
+        </a>
+        . Both are excellent!
+       </p>
+       <p>
+        I bet you have most of what you need to make these brownies already sitting in your kitchen. Here’s what you’ll need:
+       </p>
+       <p>
+        <strong>
+         Butter
+        </strong>
+        adds so much more flavor than oil ever could. We use 100% butter in the recipe and don’t feel the need to add oil.
+       </p>
+       <div class="code-block code-block-2" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_2" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_2" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <p>
+        <strong>
+         Sugar
+        </strong>
+        balances the bitterness of unsweetened cocoa powder and adds to the texture of the brownies. It makes the centers soft and the tops crinkly.
+       </p>
+       <p>
+        <strong>
+         Cocoa powder
+        </strong>
+        adds our chocolate element and makes these taste rich. I’ve used a variety of cocoa powders. You can use natural cocoa powder, Dutch-processed cocoa powder, or raw cacao powder to make these. Use what you love, but I love the flavor of Droste Cacao (a Dutch cocoa powder) in these brownies.
+       </p>
+       <p>
+        <strong>
+         Eggs
+        </strong>
+        add richness and provide structure to the brownies.
+       </p>
+       <p>
+        <strong>
+         Salt and vanilla
+        </strong>
+        help to round out the flavor of the brownies. Salt in baking might seem odd, but just like in savory cooking, it awakens the flavors of the recipe.
+       </p>
+       <div class="code-block code-block-3" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_3" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_3" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <p>
+        <strong>
+         All-purpose flour
+        </strong>
+        is the last ingredient you need, but you don’t need much. Remember, we’re on the hunt for extra fudgy brownies, and keeping the flour to a minimum helps with that. Cakey brownie recipes will call for more flour. While we have not tried this ourselves, if you read through the comments below, there are quite a few people who have had success using a gluten-free flour blend (like the Bob’s Red Mill blend).
+       </p>
+       <h3>
+        Why Don’t You Add Chocolate?
+       </h3>
+       <p>
+        This recipe is slightly adapted from Alice Medrich’s Cocoa Brownies found in many of her cookbooks. Medrich is a genius when it comes to chocolate. Search on Google and you’ll see that some brownie recipes call for chocolate that is melted into butter, then mixed with sugar, eggs, and flour. This recipe is different — and smart.
+       </p>
+       <p>
+        Instead of using chocolate, Medrich calls for cocoa powder. In removing the chocolate (as well as the fat and sugar that goes along with it), she was fine-tuned the brownies so that the middles were softer and moist and the tops were shiny and candy-like.
+        <strong>
+        </strong>
+        The recipe is pure gold.
+       </p>
+       <p>
+        Since we are using cocoa powder, they aren’t overly sweet. If you are like us and find yourself reaching for dark chocolate over milk, these are most certainly for you. Here’s
+        <a data-id="48231" data-type="post" href="https://www.inspiredtaste.net/48231/chocolate-cupcakes/">
+         another recipe
+        </a>
+        that is unapologetic about how much cocoa powder is added to the batter.
+       </p>
+       <div class="code-block code-block-4" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_4" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_4" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <p>
+        <strong>
+         If you want to add chopped chocolate or chocolate chips, you can.
+        </strong>
+        These are your brownies, after all! We recommend stirring a handful of chocolate into the batter before pouring it into the baking pan or scattering chocolate on top of the batter in the pan.
+       </p>
+       <h2>
+        How to Make the Best Brownies
+       </h2>
+       <p>
+        These brownies are simple to make. You only need one mixing bowl, a small saucepan, and a spoon. There’s no mixer or fancy equipment required! To make them, I follow these steps:
+       </p>
+       <p>
+        <strong>
+         Step 1, Melt the butter with sugar, salt, and cocoa powder.
+        </strong>
+        Here is where the saucepan comes into play. Make something called a double boiler, a fancy term for a small saucepan filled with an inch or two of water set over low heat. I place a bowl with the butter, sugar, and cocoa powder over the saucepan and watch as they melt into a gritty-looking mixture.
+       </p>
+       <p>
+        This process helps to create that crinkly top we all love. Heating the sugar like this helps move it to the top of the brownies when they are in the oven, which is how they get that shiny top. You can complete this process in the microwave (many of our readers have). I do prefer the stovetop method since I know it helps to achieve that beautiful crackly top.
+       </p>
+       <div class="code-block code-block-5 ai-viewport-3" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_5" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_5" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="Melting the butter with sugar, cocoa powder, and salt." class="wp-image-30240" height="800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-188x125.jpg 188w" width="1200"/>
+        </noscript>
+        <img alt="Melting the butter with sugar, cocoa powder, and salt." class="lazyload wp-image-30240" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_0-1200-188x125.jpg 188w" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+        <figcaption>
+         Melting the butter with sugar, cocoa powder, and salt.
+        </figcaption>
+       </figure>
+       <p>
+        <strong>
+         Step 2, Add the vanilla and eggs.
+        </strong>
+        We use two eggs to make the brownies, but I add them one at a time. I add the first egg and mix it into the butter, sugar, and cocoa powder. When the first egg is mixed in, I repeat with the second egg.
+       </p>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="Adding the eggs to the batter" class="wp-image-30243" height="800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-188x125.jpg 188w" width="1200"/>
+        </noscript>
+        <img alt="Adding the eggs to the batter" class="lazyload wp-image-30243" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_3-1200-188x125.jpg 188w" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+        <figcaption>
+         After adding the eggs, the batter will transform from a gritty batter to one that looks like shiny pudding.
+        </figcaption>
+       </figure>
+       <p>
+        <strong>
+         Step 3, Add the flour.
+        </strong>
+        After mixing the flour into the batter, I beat the batter with a spoon for 40 to 50 strokes. The batter will be thick. This extra beating makes sure that the butter emulsifies into the batter, which makes sure the brownies bake perfectly in the oven. I usually tell you to be careful not to over-mix batters on this blog, but that’s not the case with these simple brownies.
+       </p>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="Adding 1/2 cup of flour to make extra fudgy brownies." class="wp-image-30244" height="800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-188x125.jpg 188w" width="1200"/>
+        </noscript>
+        <img alt="Adding 1/2 cup of flour to make extra fudgy brownies." class="lazyload wp-image-30244" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_4-1200-188x125.jpg 188w" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+        <figcaption>
+         You only need 1/2 cup of flour for these extra fudgy brownies.
+        </figcaption>
+       </figure>
+       <p>
+        <strong>
+         Step 4, Bake them.
+        </strong>
+        The brownies bake in the oven for 20 to 25 minutes. I’ve dedicated a whole section below telling you how I tell when brownies are ready to be pulled out of the oven, because nobody wants an overbaked brownie, right?
+       </p>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="Pouring the brownie batter into the baking pan" class="wp-image-30245" height="800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-188x125.jpg 188w" width="1200"/>
+        </noscript>
+        <img alt="Pouring the brownie batter into the baking pan" class="lazyload wp-image-30245" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-Step_5-1200-188x125.jpg 188w" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+        <figcaption>
+         We bake the brownies in a 8-inch square pan.
+        </figcaption>
+       </figure>
+       <h3>
+        What Pan Should I Use?
+       </h3>
+       <p>
+        <strong>
+         We bake the brownies in an 8-inch square pan
+        </strong>
+        . Since posting the recipe, quite a few readers have asked if it would be okay to use a larger pan. You can, but you will need to double the recipe.
+       </p>
+       <p>
+        <strong>
+         If you double the recipe,
+        </strong>
+        a 9-inch by 13-inch rectangular pan is perfect, and the brownies will be slightly thicker.
+       </p>
+       <p>
+        <strong>
+         It is best to use light-colored or shiny metal baking pans
+        </strong>
+        since they cook more evenly. Dark pans can cause the bottoms of the brownies to cook more quickly. If a dark pan is all you have, reduce the oven temperature by 25 degrees F and keep an eye on the brownies as they bake.
+       </p>
+       <h3>
+        How To Tell When Brownies Are Done
+       </h3>
+       <p>
+        Telling when brownies are ready to come out of the oven can be a little tricky, but don’t worry, with my tips you’ll be a brownie pro in no time!
+       </p>
+       <p>
+        <strong>
+         My first tip is to use a timer.
+        </strong>
+        I’m terrible at getting distracted. Without a timer cueing me to check on the brownies, I’m destined for overbaked brownies! They should take 20 to 25 minutes, so to be safe, set the timer for 18 minutes. This way, you can keep a close eye on them towards the end of cooking.
+       </p>
+       <p>
+        <strong>
+         Use a toothpick.
+        </strong>
+        Stick it into the center of the pan, and pull it out. If there is wet batter on the toothpick, they need more time. If there are moist crumbs on the toothpick, they are done, and if there’s nothing on the toothpick, you might have overbaked them so definitely take them out of the oven.
+       </p>
+       <p>
+        <strong>
+         Use your eyes.
+        </strong>
+        Perfectly baked brownies will look a little underbaked in the middle. (Sounds kind of strange, right). You see, as the brownies cool, they continue to cook. So when the edges look dry and the middle looks slightly underdone, take them out of the oven. Even if it ends up that you took them out a minute early, an underbaked square in the middle of the pan is much better than the whole pan being overbaked. Plus, if I were at your house, I’d happily eat the underbaked middle.
+       </p>
+       <p>
+        <strong>
+         Why did my brownies take longer to bake?
+        </strong>
+        After sharing this brownie recipe years ago, some readers have found that they needed to bake their batch for 5 to 10 minutes more than we suggest in the recipe. These take 20 to 22 minutes in our oven, but ovens do vary, which is why having visual cues for telling when something is done is so important. If you find that your brownies need extra time, I’d check the oven temperature. Some in-home ovens are uncalibrated, so while you think you’ve set the temperature properly, the oven can be off by 25 degrees! Don’t worry though, a simple oven thermometer set on a rack inside your oven can tell you the real truth. All kitchen stores sell them, I think ours was about $10.
+       </p>
+       <figure class="wp-block-image size-full">
+        <noscript>
+         <img alt="A stack of fudgy brownies with crinkly tops" class="wp-image-30235" height="1800" sizes="(max-width: 1200px) 100vw, 1200px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-533x800.jpg 533w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-200x300.jpg 200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-768x1152.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-683x1024.jpg 683w" width="1200"/>
+        </noscript>
+        <img alt="A stack of fudgy brownies with crinkly tops" class="lazyload wp-image-30235" data-sizes="(max-width: 1200px) 100vw, 1200px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-533x800.jpg 533w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-200x300.jpg 200w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-768x1152.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200-683x1024.jpg 683w" height="1800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%201800%22%3E%3C/svg%3E" width="1200"/>
+       </figure>
+       <h3>
+        What Our Readers Are Saying
+       </h3>
+       <p>
+        If you don’t believe that our recipe helps you achieve the best brownies from scratch, take a look at what our readers are saying about the recipe! More reviews are in the comments section below.
+       </p>
+       <blockquote class="wp-block-quote">
+        <p>
+         “Hands down, best brownie recipe ever!” – Michelle
+        </p>
+        <p>
+         “These brownies were the best recipe I’ve ever made and I consider myself a brownie connoisseur!” – Shana
+        </p>
+        <p>
+         “PERFECTION! This is my go to brownie recipe and no matter what it always turns out perfectly!” – Teas
+        </p>
+        <p>
+         “They are the best fudge brownies I have ever had, much less made! This is a keeper. Never again will I make any other recipe!” – Ami
+        </p>
+       </blockquote>
+       <h3>
+        More Brownie Recipes
+       </h3>
+       <ul>
+        <li>
+         When we’re craving something chocolatey, but just don’t have the patience to bake, this
+         <a href="https://www.inspiredtaste.net/27024/brownie-in-a-mug-recipe/">
+          Brownie In A Mug Recipe
+         </a>
+         is where we turn.
+        </li>
+        <li>
+         If you love nuts, try these
+         <a href="https://www.inspiredtaste.net/28413/salted-almond-brownies/">
+          Rich and Fudgy Salted Almond Brownies
+         </a>
+         .
+        </li>
+        <li>
+         These
+         <a href="https://www.inspiredtaste.net/17101/andes-mint-chocolate-cookies-recipe/">
+          Andes Mint Chocolate Cookies
+         </a>
+         could also be called brownie batter cookies. They are so good!
+        </li>
+        <li>
+         Think of this
+         <a href="https://www.inspiredtaste.net/23801/no-fail-blondies-recipe/">
+          Blondies Recipe
+         </a>
+         as brownie’s alter-ego. Instead of a chocolate batter, it is vanilla.
+        </li>
+       </ul>
+       <p>
+        <em>
+         Recipe updated, originally posted August 2013. Since posting this in 2013, we have tweaked the recipe to be more clear and added a quick recipe video. – Adam and Joanne
+        </em>
+       </p>
+       <div class="code-block code-block-6" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_6" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_6" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <div class="itr-recipe-line">
+       </div>
+       <div class="itr-recipe-top" id="itr-recipe-24412">
+        <div class="itr-rating">
+         <div class="itr-rate-stars">
+          <a href="#comments">
+           <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+            <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+            </polygon>
+           </svg>
+           <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+            <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+            </polygon>
+           </svg>
+           <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+            <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+            </polygon>
+           </svg>
+           <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+            <polygon class="yellow" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+            </polygon>
+           </svg>
+           <svg class="aggregate" height="28" viewbox="0 0 18 22" width="25">
+            <defs>
+             <lineargradient id="linear" x1="0%" x2="100%" y1="0%" y2="0%">
+              <stop offset="0%" stop-color="#ffd055">
+              </stop>
+              <stop offset="80%" stop-color="#ffd055">
+              </stop>
+              <stop offset="80%" stop-color="#d8d8d8">
+              </stop>
+              <stop offset="100%" stop-color="#d8d8d8">
+              </stop>
+             </lineargradient>
+            </defs>
+            <polygon class="partial" fill="url(#linear)" points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78">
+            </polygon>
+           </svg>
+          </a>
+         </div>
+         <div class="rating">
+          <a href="#comments">
+           <span class="comments">
+            1799 comments
+           </span>
+           <span class="seperator">
+            /
+           </span>
+           <span class="rating-count">
+            885 reviews
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="itr-print-outer">
+         <div class="print-button">
+          <span class="print-itr">
+           <a class="" href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/itr_print/" rel="nofollow" role="button" target="_blank">
+            <svg class="printer-icon" height="30" viewbox="0 0 51.37 40.41" xmlns="http://www.w3.org/2000/svg">
+             <defs>
+             </defs>
+             <path class="cls-1" d="M41.11,9.32v3.59a2,2,0,0,0,2,2h3.59Z" transform="translate(-9.58 -9.32)">
+             </path>
+             <path class="cls-1" d="M46.73,27.93V16.38H41.62a2,2,0,0,1-2-2v-5H25.29a2,2,0,0,0-2,2V27.93ZM29.58,18.76H39.92a.85.85,0,1,1,0,1.7H29.58a.85.85,0,1,1,0-1.7Zm0,3.75H39.92a.85.85,0,1,1,0,1.7H29.58a.85.85,0,1,1,0-1.7Z" transform="translate(-9.58 -9.32)">
+             </path>
+             <path class="cls-1" d="M55.23,29.51H15.29a5.71,5.71,0,0,0-5.71,5.71V44a5.71,5.71,0,0,0,5.71,5.71H55.23A5.71,5.71,0,0,0,60.94,44V35.22A5.71,5.71,0,0,0,55.23,29.51Z" transform="translate(-9.58 -9.32)">
+             </path>
+            </svg>
+            <span class="print-button-text">
+             Print
+            </span>
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+       <div class="itr-recipe-title">
+        <h2>
+         Easy Fudgy Brownies From Scratch (Our Favorite)
+        </h2>
+       </div>
+       <div class="itr-recipe-times">
+        <ul class="recipe-times">
+         <li class="prep-time">
+          <span class="recipe-time-lable">
+           PREP
+          </span>
+          <time>
+           15mins
+           <li class="cook-time">
+            <span class="recipe-time-lable">
+             COOK
+            </span>
+            <time>
+             30mins
+             <li class="total-time">
+              <span class="recipe-time-lable">
+               TOTAL
+              </span>
+              <time>
+               45mins
+              </time>
+             </li>
+            </time>
+           </li>
+          </time>
+         </li>
+        </ul>
+       </div>
+       <div class="itr-description">
+        <p>
+         Our favorite brownies recipe from scratch. You only need one bowl, a saucepan, and a spoon. In the first step, we ask that you melt the butter with sugar, cocoa powder, and salt in a bowl set over a saucepan of simmering water. This process ensures that crinkly top that we all love. You can do this step in the microwave, but I do find the stovetop method to be more consistent.
+        </p>
+        <p>
+         These brownies aren’t too sweet. If you are like us and find yourself reaching for darker chocolate over milk chocolate, these are most certainly for you. Use natural or Dutch-process cocoa powder for these (cacao powder works, too). I especially love using Droste Cacao (a Dutch process powder).
+        </p>
+       </div>
+       <div class="itr-recipeyield">
+        <span>
+         Makes 16 Brownies
+        </span>
+       </div>
+       <div class="itr-recipe-video">
+        <h2>
+         Watch Us Make the Recipe
+        </h2>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="360" loading="lazy" src="https://www.youtube.com/embed/i31mrIYNheI?rel=0" title="Our Favorite Easy Fudgy Brownies From Scratch - Updated" width="640">
+        </iframe>
+       </div>
+       <div class="itr-ingredients">
+        <h2>
+         You Will Need
+        </h2>
+        <span class="itr-ingredients">
+         <p>
+          10 tablespoons (145 grams) unsalted butter
+         </p>
+         <p>
+          1 ¼ cups (250 grams) granulated sugar
+         </p>
+         <p>
+          3/4 cup plus 2 tablespoons (80 grams) unsweetened cocoa powder,
+          <em>
+           natural or Dutch-process
+          </em>
+         </p>
+         <p>
+          1/4 rounded teaspoon kosher salt,
+          <em>
+           use slightly less if using fine sea or table salt
+          </em>
+         </p>
+         <p>
+          1 teaspoon vanilla extract
+         </p>
+         <p>
+          2 large cold eggs
+         </p>
+         <p>
+          1/2 cup (65 grams) all-purpose flour
+         </p>
+         <p>
+          2/3 cup (75 grams) chopped walnuts or pecans, optional
+         </p>
+        </span>
+       </div>
+       <div class="code-block code-block-7" style="margin: 20px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_7" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_7" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <div class="itr-directions">
+        <h2>
+         Directions
+        </h2>
+        <ul>
+         <li class="itr-step">
+          <span>
+           Prepare Batter
+          </span>
+         </li>
+         <span class="itr-directions">
+          <p>
+           Position an oven rack in the lower third of the oven and heat to 325 degrees F. Line the bottom and sides of an 8-inch square baking pan with parchment paper or aluminum foil, leaving an overhang on two opposite sides. (This helps when removing the baked brownies from the pan, once cooled).
+          </p>
+          <p>
+           Add enough water to a medium saucepan so that it is 1 to 2 inches deep. Heat water until barely simmering.
+          </p>
+          <p>
+           Combine butter, sugar, cocoa powder, and salt in a medium heat-safe bowl. Rest the bowl over simmering water (if the bottom of the bowl touches the water, remove a little water). Stir the mixture occasionally until the butter has melted and the mixture is quite warm. Don’t worry if it looks gritty; it will become smooth once you add the eggs and flour.
+          </p>
+          <p>
+           Remove the bowl from heat and set aside for 3 to 5 minutes until it is only warm, not hot. Stir in the vanilla with a spoon. Then add the eggs, one at a time, stirring vigorously after each one.
+          </p>
+          <p>
+           When the batter looks thick, shiny, and well blended, add the flour and stir until fully incorporated, then beat with the wooden spoon or spatula for 40 to 50 strokes. (The batter will be thick). Beat vigorously here. You want to see the brownie batter pulling away from the sides of the bowl (if you do not have the strength to do this by hand, use a hand mixer). Stir in nuts, if using. Spread evenly in lined pan.
+          </p>
+         </span>
+         <ul>
+          <li class="itr-step">
+           <span>
+            Bake Brownies
+           </span>
+          </li>
+          <span class="itr-directions">
+           <p>
+            Bake the brownies for 20 to 25 minutes or until a toothpick can be inserted into the center and come out with a few moist crumbs. As a visual test, brownies are done when the edges will look dry and the middle still looks slightly underbaked.
+           </p>
+           <p>
+            <em>
+             Some readers have found they need to bake an extra 5 to 10 minutes. Brownies are easy to overbake so keep an eye on the doneness of the brownies and use the visual and toothpick test as your guide.
+            </em>
+           </p>
+           <p>
+            Cool completely then remove from pan. For the cleanest lines when cutting, place into the freezer for 20 to 30 minutes to firm up. Cut into 16 squares.
+           </p>
+          </span>
+         </ul>
+        </ul>
+       </div>
+       <div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
+        <center>
+         <div class="adgrid ad_in_post_1" data-adgrid-iuparts="/16916776/inspiredtaste/in_post_1" style="height:250px">
+         </div>
+        </center>
+       </div>
+       <div class="itr-notes">
+        <h2>
+         Adam and Joanne's Tips
+        </h2>
+        <div class="tip">
+         <ul>
+          <li>
+           These are on the bittersweet side – we like that, but if you are more into milk chocolate than semi-sweet or dark, these may be a little bitter for you. Some readers have had success with adding a bit more sugar to accommodate.
+          </li>
+          <li>
+           This recipe is slightly adapted from Alice Medrich’s Cocoa Brownies found in many of her cookbooks. Here’s one of them: “Sinfully Easy Delicious Desserts” If you love dessert as much as we do, buy it. You won’t regret it.
+          </li>
+          <li>
+           Some readers have had problems with the fat separating during baking. Since the recipe calls for so much butter and so little flour, it is vital that the batter is beaten vigorously enough so that it emulsifies. Otherwise, you risk the fat seeping out when baking in the oven. Just after adding the flour, you should be beating for about 40 strokes until the batter becomes very thick and begins to pull away from the sides of the bowl.
+          </li>
+          <li>
+           Nutrition facts: The nutrition facts provided below are estimates. We have used the USDA Supertracker recipe calculator to calculate approximate values.
+          </li>
+         </ul>
+         <p>
+          <em>
+           If you make this recipe, snap a photo and hashtag it #inspiredtaste — We love to see your creations on
+           <a href="https://www.instagram.com/inspiredtaste/" rel="noopener noreferrer">
+            Instagram
+           </a>
+           and
+           <a href="https://www.facebook.com/inspiredtaste" rel="noopener noreferrer">
+            Facebook
+           </a>
+           ! Find us: @inspiredtaste
+          </em>
+         </p>
+        </div>
+       </div>
+       <div class="itr-nutrition">
+        <span class="nutrition-heading">
+         Nutrition Per Serving:
+        </span>
+        <span>
+         <span>
+          Serving Size
+         </span>
+         <span>
+          1 brownie
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Calories
+         </span>
+         <span>
+          158
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Protein
+         </span>
+         <span>
+          2 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Carbohydrate
+         </span>
+         <span>
+          21 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Dietary Fiber
+         </span>
+         <span>
+          2 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Total Sugars
+         </span>
+         <span>
+          16 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Total Fat
+         </span>
+         <span>
+          8 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Saturated Fat
+         </span>
+         <span>
+          5 g
+         </span>
+         <span>
+          /
+         </span>
+         <span>
+          Cholesterol
+         </span>
+         <span>
+          42 mg
+         </span>
+        </span>
+       </div>
+       <div class="itr-author">
+        <span class="author-title">
+         <strong>
+          AUTHOR:
+         </strong>
+        </span>
+        <span class="author-name">
+         Adam and Joanne Gallagher
+        </span>
+       </div>
+       <!-- AI CONTENT END 2 -->
+      </div>
+      <div class="text_box foodtravel">
+       <a class="foodtravel_image" href="/subscribe/">
+        <noscript>
+         <img alt="Subscribe" height="800" src="/wp-content/uploads/2019/11/Meatless-Newsletter-Signup-300x250.png" width="1200"/>
+        </noscript>
+        <img alt="Subscribe" class="lazyload" data-src="/wp-content/uploads/2019/11/Meatless-Newsletter-Signup-300x250.png" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3>
+        Don’t Miss Our Latest Recipes
+       </h3>
+       <a class="foodtravel_image" href="/49249/chicken-quesadillas/">
+        <noscript>
+         <img alt="Green Chile Chicken Quesadillas" height="800" src="/wp-content/uploads/2021/05/Chicken-Quesadilla-Recipe-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="Green Chile Chicken Quesadillas" class="lazyload" data-src="/wp-content/uploads/2021/05/Chicken-Quesadilla-Recipe-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/49249/chicken-quesadillas/">
+         Green Chile Chicken Quesadillas
+        </a>
+       </h3>
+       <a class="foodtravel_image" href="/49008/how-to-make-meatballs/">
+        <noscript>
+         <img alt="How to Make Tender Juicy Meatballs" height="800" src="/wp-content/uploads/2021/04/How-to-Make-Meatballs-4-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="How to Make Tender Juicy Meatballs" class="lazyload" data-src="/wp-content/uploads/2021/04/How-to-Make-Meatballs-4-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/49008/how-to-make-meatballs/">
+         How to Make Tender Juicy Meatballs
+        </a>
+       </h3>
+       <a class="foodtravel_image" href="/48231/chocolate-cupcakes/">
+        <noscript>
+         <img alt="Our Favorite Chocolate Cupcakes" height="800" src="/wp-content/uploads/2021/02/Easy-Chocolate-Cupcakes-Recipe-2-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="Our Favorite Chocolate Cupcakes" class="lazyload" data-src="/wp-content/uploads/2021/02/Easy-Chocolate-Cupcakes-Recipe-2-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/48231/chocolate-cupcakes/">
+         Our Favorite Chocolate Cupcakes (Naturally Vegan)
+        </a>
+       </h3>
+       <a class="foodtravel_image" href="/46546/easy-bean-salad/">
+        <noscript>
+         <img alt="Ridiculously Easy Bean Salad" height="800" src="/wp-content/uploads/2020/07/Bean-Salad-Recipe-2-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="Ridiculously Easy Bean Salad" class="lazyload" data-src="/wp-content/uploads/2020/07/Bean-Salad-Recipe-2-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/46546/easy-bean-salad/">
+         Ridiculously Easy Bean Salad
+        </a>
+       </h3>
+       <a class="foodtravel_image" href="/48013/chimichurri-cauliflower-steaks/">
+        <noscript>
+         <img alt="Chimichurri Cauliflower Steaks
+" height="800" src="/wp-content/uploads/2021/01/Chimichurri-Cauliflower-Steaks-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="Chimichurri Cauliflower Steaks
+" class="lazyload" data-src="/wp-content/uploads/2021/01/Chimichurri-Cauliflower-Steaks-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/48013/chimichurri-cauliflower-steaks/">
+         Chimichurri Cauliflower Steaks
+        </a>
+       </h3>
+       <a class="foodtravel_image" href="/40400/lentil-soup/">
+        <noscript>
+         <img alt="Lentil Soup with Lemon and Turmeric" height="800" src="/wp-content/uploads/2019/04/Easy-Lentil-Soup-Recipe-1200.jpg" width="1200"/>
+        </noscript>
+        <img alt="Lentil Soup with Lemon and Turmeric" class="lazyload" data-src="/wp-content/uploads/2019/04/Easy-Lentil-Soup-Recipe-1200.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/40400/lentil-soup/">
+         Lentil Soup with Lemon and Turmeric
+        </a>
+       </h3>
+       <h3>
+        Tour Our New Kitchen
+       </h3>
+       <a class="foodtravel_image" href="/47162/our-new-kitchen/">
+        <noscript>
+         <img alt="Our New Kitchen" height="800" src="/wp-content/uploads/2020/09/Our-New-Kitchen-Inspired-Taste.jpg" width="1200"/>
+        </noscript>
+        <img alt="Our New Kitchen" class="lazyload" data-src="/wp-content/uploads/2020/09/Our-New-Kitchen-Inspired-Taste.jpg" height="800" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201200%20800%22%3E%3C/svg%3E" width="1200"/>
+       </a>
+       <h3 class="foodtravel_link">
+        <a href="/47162/our-new-kitchen/">
+         Our New Kitchen
+        </a>
+       </h3>
+      </div>
+      <div>
+       <div class="single-ad-optin">
+        <div class="text_box ad single-ad">
+         <div class="adgrid ad_after_post_content_1" data-adgrid-iuparts="/16916776/inspiredtaste/after_post_content_1">
+         </div>
+        </div>
+        <div class="text_box optin optin-single">
+         <form action="/subscribe/" class="validate" id="mc-embedded- subscribe-form" method="post" name="mc-embedded-subscribe-form">
+          <b>
+           <p class="widget_title">
+            Subscribe to Our Newsletter
+           </p>
+          </b>
+          <p>
+           Subscribe to our newsletter with easy, delicious, and fresh recipes and receive our eCookbook with 16 of our most loved recipes for free! Click Go to signup for free!
+          </p>
+          <input class="button" id="mc-embedded-
+subscribe" name="subscribe" type="submit" value="Go!"/>
+         </form>
+        </div>
+       </div>
+       <div class="profile-icons profile-icons">
+        <a class="profile-icon icon-twitter" href="https://twitter.com/inspiredtaste" target="_blank">
+        </a>
+        <a class="profile-icon icon-facebook" href="https://www.facebook.com/inspiredtaste" target="_blank">
+        </a>
+        <a class="profile-icon icon-instagram" href="https://www.instagram.com/inspiredtaste/" target="_blank">
+        </a>
+        <a class="profile-icon icon-pinterest" href="https://www.pinterest.com/inspiredtaste/" target="_blank">
+        </a>
+        <a class="profile-icon icon-youtube" href="https://www.youtube.com/user/inspiredtaste" target="_blank">
+        </a>
+        <a class="profile-icon icon-rss" href="https://www.inspiredtaste.net/feed/" target="_blank">
+        </a>
+       </div>
+      </div>
+      <div class="related-posts">
+       <h3>
+        Hungry For More?
+       </h3>
+       <ul>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/47251/coffee-cake/" rel="bookmark" title="Cinnamon Streusel Swirled Coffee Cake">
+           <noscript>
+            <img alt="Brown Sugar Cinnamon Streusel Coffee Cake Recipe" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-768x512.jpg 768w" width="188"/>
+           </noscript>
+           <img alt="Brown Sugar Cinnamon Streusel Coffee Cake Recipe" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2020/10/Coffee-Cake-Recipe-2-1200-768x512.jpg 768w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/47251/coffee-cake/" rel="bookmark" title="Cinnamon Streusel Swirled Coffee Cake">
+           Cinnamon Streusel Swirled Coffee Cake
+          </a>
+         </div>
+        </li>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/21117/perfect-roasted-pork-tenderloin-recipe-with-apples/" rel="bookmark" title="Perfect Roasted Pork Tenderloin with Apples">
+           <noscript>
+            <img alt="Perfect Roasted Pork Tenderloin with Apples" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200.jpg 1200w" width="188"/>
+           </noscript>
+           <img alt="Perfect Roasted Pork Tenderloin with Apples" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/06/Pork-Tenderlion-Recipe-with-Apple-and-Onions-2-1200.jpg 1200w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/21117/perfect-roasted-pork-tenderloin-recipe-with-apples/" rel="bookmark" title="Perfect Roasted Pork Tenderloin with Apples">
+           Perfect Roasted Pork Tenderloin with Apples
+          </a>
+         </div>
+        </li>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/26408/buttermilk-biscuit-recipe/" rel="bookmark" title="Easy Flaky Homemade Buttermilk Biscuits">
+           <noscript>
+            <img alt="Easy Homemade Buttermilk Biscuits Recipe" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200.jpg 1200w" width="188"/>
+           </noscript>
+           <img alt="Easy Homemade Buttermilk Biscuits Recipe" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2014/12/Homemade-Biscuits-Recipe-1-1200.jpg 1200w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/26408/buttermilk-biscuit-recipe/" rel="bookmark" title="Easy Flaky Homemade Buttermilk Biscuits">
+           Easy Flaky Homemade Buttermilk Biscuits
+          </a>
+         </div>
+        </li>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/8297/pan-roasted-chicken-with-thyme-recipe/" rel="bookmark" title="Easy Pan Roasted Chicken Breasts with Thyme">
+           <noscript>
+            <img alt="Easy Pan Roasted Chicken Breasts Recipe" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200.jpg 1200w" width="188"/>
+           </noscript>
+           <img alt="Easy Pan Roasted Chicken Breasts Recipe" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2011/12/Pan-Roasted-Chicken-Bread-Recipe-3-1200.jpg 1200w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/8297/pan-roasted-chicken-with-thyme-recipe/" rel="bookmark" title="Easy Pan Roasted Chicken Breasts with Thyme">
+           Easy Pan Roasted Chicken Breasts with Thyme
+          </a>
+         </div>
+        </li>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/27097/zesty-green-chimichurri-recipe/" rel="bookmark" title="Easy Homemade Chimichurri Sauce">
+           <noscript>
+            <img alt="Homemade Chimichurri Sauce Recipe" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-1199x800.jpg 1199w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-768x513.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-1024x684.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200.jpg 1200w" width="188"/>
+           </noscript>
+           <img alt="Homemade Chimichurri Sauce Recipe" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-1199x800.jpg 1199w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-768x513.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200-1024x684.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2015/05/Chimichurri-Sauce-Recipe-2-1200.jpg 1200w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/27097/zesty-green-chimichurri-recipe/" rel="bookmark" title="Easy Homemade Chimichurri Sauce">
+           Easy Homemade Chimichurri Sauce
+          </a>
+         </div>
+        </li>
+        <li>
+         <div class="related-posts-thumb">
+          <a href="https://www.inspiredtaste.net/28780/baked-sweet-potato-with-tomato-salsa/" rel="bookmark" title="Avocado Tomato Stuffed Sweet Potatoes">
+           <noscript>
+            <img alt="Baked Sweet Potatoes with Roasted Garlic Salsa" class="attachment-grid-img size-grid-img wp-post-image" height="125" sizes="(max-width: 188px) 100vw, 188px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-188x125.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-637x425.jpg 637w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3.jpg 640w" width="188"/>
+           </noscript>
+           <img alt="Baked Sweet Potatoes with Roasted Garlic Salsa" class="lazyload attachment-grid-img size-grid-img wp-post-image" data-sizes="(max-width: 188px) 100vw, 188px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-188x125.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-637x425.jpg 637w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/04/Baked-Sweet-Potato-Recipe-3.jpg 640w" height="125" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20188%20125%22%3E%3C/svg%3E" width="188"/>
+          </a>
+         </div>
+         <div class="related-posts-title">
+          <a href="https://www.inspiredtaste.net/28780/baked-sweet-potato-with-tomato-salsa/" rel="bookmark" title="Avocado Tomato Stuffed Sweet Potatoes">
+           Avocado Tomato Stuffed Sweet Potatoes
+          </a>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div id="comments">
+       <div class="comments_intro">
+        <span class="num_comments">
+         1799
+        </span>
+        comments…
+        <a href="#commentform" rel="nofollow">
+         Leave a Comment
+        </a>
+       </div>
+       <ul class="comment_list">
+        <li class="comment even thread-even depth-1" id="comment-443102">
+         <span class="comment_author">
+          Linda
+         </span>
+         <span class="comment_date">
+          January 21, 2022, 8:53 pm
+         </span>
+         <div class="comment_text" id="comment-body-443102">
+          <p>
+           Made these today omg so chocolatey  and frugey. I love this recipe very easy to make this is a keeper
+          </p>
+         </div>
+         <a aria-label="Reply to Linda" class="comment-reply-link" data-belowelement="comment-body-443102" data-commentid="443102" data-postid="24412" data-replyto="Reply to Linda" data-respondelement="commentform" href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/comment-page-92/?replytocom=443102#commentform" rel="nofollow">
+          Reply
+         </a>
+        </li>
+        <!-- #comment-## -->
+       </ul>
+       <div class="comment_nav">
+        <span class="previous_comments">
+         <a href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/comment-page-91/#comments">
+          « Older Comments
+         </a>
+        </span>
+       </div>
+       <div id="commentform">
+        <form action="https://www.inspiredtaste.net/wp-comments-post.php" method="post">
+         <div class="comment-form-header">
+          <p class="comment_form_title">
+           Leave a Comment/Review
+          </p>
+          <a href="/24412/cocoa-brownies-recipe/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+           Cancel reply
+          </a>
+         </div>
+         <div class="text_box">
+          <p>
+           All comments are moderated before appearing on the site. Thank you so much for waiting. First time commenting? Please review our
+           <a href="/comment-policy/">
+            Comment Guidelines
+           </a>
+           . You must be at least 16 years old to post a comment. All comments are governed by our
+           <a href="/privacy-and-terms/">
+            Privacy Policy &amp; Terms
+           </a>
+           .
+           <br/>
+           <br/>
+           * Required fields (Email address will not be published)
+           <br/>
+          </p>
+         </div>
+         <p id="comment_form_name">
+          <label for="author">
+           Name
+           <span class="required" title="Required">
+            *
+           </span>
+          </label>
+          <input aria-required="true" class="input_text" id="author" name="author" tabindex="1" type="text" value="">
+          </input>
+         </p>
+         <p id="comment_form_email">
+          <label for="email">
+           Email
+           <span class="required" title="Required">
+            *
+           </span>
+          </label>
+          <input aria-required="true" class="input_text" id="email" name="email" tabindex="2" type="text" value=""/>
+         </p>
+         <p id="comment_form_comment">
+          <label for="comment">
+           Comment
+          </label>
+          <textarea class="input_text" id="comment" name="comment" rows="10" tabindex="4"></textarea>
+         </p>
+         <!-- Mailchimp for WordPress v4.8.6 - https://www.mc4wp.com/ -->
+         <input name="_mc4wp_subscribe_wp-comment-form" type="hidden" value="0"/>
+         <p class="mc4wp-checkbox mc4wp-checkbox-wp-comment-form">
+          <label>
+           <input name="_mc4wp_subscribe_wp-comment-form" type="checkbox" value="1"/>
+           <span>
+            Subscribe to Inspired Taste's free newsletter to receive hand-picked recipes and as a thank you for joining our community, we will send you a link to download our free eCookbook!
+           </span>
+          </label>
+         </p>
+         <!-- / Mailchimp for WordPress -->
+         <p class="comment-form-cookies-consent">
+          <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"/>
+          <label for="wp-comment-cookies-consent">
+           Save my name, email, and website in this browser for the next time I comment.
+          </label>
+         </p>
+         <p id="comment_form_submit">
+          <input class="input_submit" id="submit" name="submit" tabindex="5" type="submit" value="Submit"/>
+         </p>
+         <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="24412"/>
+         <input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+         <div class="itr-comment">
+          <p style="rate-lable">
+           Did you make it? How was it?:
+          </p>
+          <span class="itr-rate">
+           <span class="itr-rate-stars">
+            <span class="stars" data-stars="0">
+             <svg class="star rating" data-rating="1" height="28" width="25">
+              <polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;">
+              </polygon>
+             </svg>
+             <svg class="star rating" data-rating="2" height="28" width="25">
+              <polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;">
+              </polygon>
+             </svg>
+             <svg class="star rating" data-rating="3" height="28" width="25">
+              <polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;">
+              </polygon>
+             </svg>
+             <svg class="star rating" data-rating="4" height="28" width="25">
+              <polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;">
+              </polygon>
+             </svg>
+             <svg class="star rating" data-rating="5" height="28" width="25">
+              <polygon points="9.9, 1.1, 3.3, 21.78, 19.8, 8.58, 0, 8.58, 16.5, 21.78" style="fill-rule:nonzero;">
+              </polygon>
+             </svg>
+            </span>
+           </span>
+          </span>
+          <input class="input-rating" name="input-rating" type="hidden" value="0"/>
+         </div>
+         <p style="display: none;">
+          <input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="d87a63d4bc"/>
+         </p>
+         <p style="display: none !important;">
+          <label>
+           Δ
+           <textarea cols="45" maxlength="100" name="ak_hp_textarea" rows="8"></textarea>
+          </label>
+          <input id="ak_js" name="ak_js" type="hidden" value="163"/>
+         </p>
+        </form>
+       </div>
+      </div>
+      <span class="previous_post">
+       Previous Post:
+       <a href="https://www.inspiredtaste.net/47162/our-new-kitchen/" rel="prev">
+        Our New Kitchen
+       </a>
+      </span>
+      <span class="next_post">
+       Next Post:
+       <a href="https://www.inspiredtaste.net/47251/coffee-cake/" rel="next">
+        Cinnamon Streusel Swirled Coffee Cake
+       </a>
+      </span>
+     </div>
+    </div>
+    <div class="sidebar sidebar-right">
+     <div class="text_box">
+      <div id="ds_dock_anchor" style="width:320px;height:280px;">
+      </div>
+     </div>
+     <div class="text_box about-box">
+      <p class="email_form_title">
+       Welcome! We are Adam + Joanne
+      </p>
+      <p>
+       We are so happy you’re here. We’re Adam and Joanne, the creators of Inspired Taste. Here you will find easy recipes for home cooks that you will want to make again and again.
+       <a href="/aboutus/">
+        More about us…
+       </a>
+      </p>
+      <noscript>
+       <img alt="Joanne and Adam Gallagher from Inspired Taste" class="aboutusphoto" height="100" src="/wp-content/uploads/2021/06/Adam-and-Joanne-Seattle.png" width="100"/>
+      </noscript>
+      <img alt="Joanne and Adam Gallagher from Inspired Taste" class="lazyload aboutusphoto" data-src="/wp-content/uploads/2021/06/Adam-and-Joanne-Seattle.png" height="100" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22%3E%3C/svg%3E" width="100"/>
+     </div>
+     <div class="profile-icons">
+      <a class="profile-icon icon-twitter" href="https://twitter.com/inspiredtaste" target="_blank">
+      </a>
+      <a class="profile-icon icon-facebook" href="https://www.facebook.com/inspiredtaste" target="_blank">
+      </a>
+      <a class="profile-icon icon-instagram" href="https://www.instagram.com/inspiredtaste/" target="_blank">
+      </a>
+      <a class="profile-icon icon-pinterest" href="https://www.pinterest.com/inspiredtaste/" target="_blank">
+      </a>
+      <a class="profile-icon icon-youtube" href="https://www.youtube.com/user/inspiredtaste" target="_blank">
+      </a>
+      <a class="profile-icon icon-rss" href="https://www.inspiredtaste.net/feed/" target="_blank">
+      </a>
+     </div>
+     <div class="text_box widget ad sidebar-ad-1">
+      <div class="adgrid ad_sidebar_1" data-adgrid-iuparts="/16916776/inspiredtaste/sidebar_1">
+      </div>
+     </div>
+     <div class="text_box optin sidebar-optin widget">
+      <form action="/subscribe/" class="validate" id="mc-embedded- subscribe-form" method="post" name="mc-embedded-subscribe-form">
+       <b>
+        <p class="widget_title">
+         Subscribe to Our Newsletter
+        </p>
+       </b>
+       <p>
+        Subscribe to our newsletter with easy, delicious, and fresh recipes and receive our eCookbook with 16 of our most loved recipes for free! Click Go to signup for free!
+       </p>
+       <input class="button" id="mc-embedded-
+subscribe" name="subscribe" type="submit" value="Go!"/>
+      </form>
+     </div>
+     <div class="text_box widget_title">
+      <h3>
+       Recent Recipe Videos
+      </h3>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/47501/roasted-potatoes/">
+       <noscript>
+        <img alt="Our Favorite Oven Roasted Potatoes" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-188x125.jpg 188w" width="300"/>
+       </noscript>
+       <img alt="Our Favorite Oven Roasted Potatoes" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2020/11/Easy-Roasted-Potatoes-Recipe-1-1200-188x125.jpg 188w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/47501/roasted-potatoes/" rel="bookmark">
+        Our Favorite Crispy Roasted Potatoes
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        This oven roasted potatoes recipe has a short ingredient list, minimal prep time, and the potatoes turn out perfectly golden brown on the outside and fluffy on the…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/47501/roasted-potatoes/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/42872/chili-roasted-cauliflower/">
+       <noscript>
+        <img alt="Chili Lime Roasted Cauliflower Recipe" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200.jpg 1200w" width="300"/>
+       </noscript>
+       <img alt="Chili Lime Roasted Cauliflower Recipe" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2019/08/Chili-Lime-Roasted-Cauliflower-Recipe-2-1200.jpg 1200w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/42872/chili-roasted-cauliflower/" rel="bookmark">
+        Chili Lime Roasted Cauliflower
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        A must make! Our spicy roasted cauliflower recipe combines perfectly roasted and browned cauliflower, ultra-flavorful spices, and fresh lime juice for an almost addictive cauliflower dish! Jump to…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/42872/chili-roasted-cauliflower/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/49903/strawberry-smoothie/">
+       <noscript>
+        <img alt="Strawberry Smoothie" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-188x125.jpg 188w" width="300"/>
+       </noscript>
+       <img alt="Strawberry Smoothie" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200.jpg 1200w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2021/07/Strawberry-Smoothie-Recipe-1200-188x125.jpg 188w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/49903/strawberry-smoothie/" rel="bookmark">
+        Easy 5-Minute Strawberry Smoothie
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        My go-to strawberry smoothie! You need less than five minutes to make this easy strawberry smoothie. Use our simple recipe on its own or use it as a base…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/49903/strawberry-smoothie/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="text_box widget_title">
+      <h3>
+       Trending Now
+      </h3>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/12143/beef-and-guinness-stew-recipe/">
+       <noscript>
+        <img alt="Irresistible Guinness Beef Stew Recipe" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200.jpg 1200w" width="300"/>
+       </noscript>
+       <img alt="Irresistible Guinness Beef Stew Recipe" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2012/02/Guiness-Beef-Stew-Recipe-5-1200.jpg 1200w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/12143/beef-and-guinness-stew-recipe/" rel="bookmark">
+        Irresistible Guinness Beef Stew Recipe with Carrots
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        How to make the best Guinness beef stew recipe. Jump to the Guinness Beef Stew Recipe or read on to see our tips for making it. Believe it or…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/12143/beef-and-guinness-stew-recipe/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/18686/apple-crisp-with-oats-recipe/">
+       <noscript>
+        <img alt="Easy Apple Crisp Recipe with Oats" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200.jpg 1200w" width="300"/>
+       </noscript>
+       <img alt="Easy Apple Crisp Recipe with Oats" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2016/10/Homemade-Apple-Crisp-Recipe-1-1200.jpg 1200w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/18686/apple-crisp-with-oats-recipe/" rel="bookmark">
+        Easy Apple Crisp with Oats
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        This apple crisp recipe with oats has sweet tender apples and a crisp and crunchy topping made with flour, oats, brown sugar, butter, and cinnamon. Jump to the Apple…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/18686/apple-crisp-with-oats-recipe/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="query_box sidebar-post" itemscope="" itemtype="https://schema.org/WebPage">
+      <a class="featured_image_link" href="https://www.inspiredtaste.net/13697/blueberry-lemon-cheesecake-bars/">
+       <noscript>
+        <img alt="Lemon Blueberry Cheesecake Bars Recipe" class="attachment-sidebar-img size-sidebar-img wp-post-image" height="200" itemprop="image" sizes="(max-width: 300px) 100vw, 300px" src="https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-300x200.jpg" srcset="https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200.jpg 1200w" width="300"/>
+       </noscript>
+       <img alt="Lemon Blueberry Cheesecake Bars Recipe" class="lazyload attachment-sidebar-img size-sidebar-img wp-post-image" data-sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-300x200.jpg" data-srcset="https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-300x200.jpg 300w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-768x512.jpg 768w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-1024x683.jpg 1024w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200-188x125.jpg 188w, https://www.inspiredtaste.net/wp-content/uploads/2012/05/Lemon-Blueberry-Cheesecake-Bars-Recipe-3-1200.jpg 1200w" height="200" itemprop="image" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E" width="300"/>
+      </a>
+      <h3 class="headline" itemprop="headline">
+       <a href="https://www.inspiredtaste.net/13697/blueberry-lemon-cheesecake-bars/" rel="bookmark">
+        Blueberry Lemon Cheesecake Bars Recipe
+       </a>
+      </h3>
+      <div class="post_content post_excerpt" itemprop="description">
+       <p>
+        How to make the best cheesecake bars with fresh blueberries and lemon. Jump to the Blueberry Lemon Cheesecake Bars Recipe or read on to see our tips for…
+        <a class="excerpt_read_more" href="https://www.inspiredtaste.net/13697/blueberry-lemon-cheesecake-bars/">
+         Read more
+        </a>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="footer">
+    <ul class="menu menu-footer" id="menu-footer">
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26128" id="menu-item-26128">
+      <a href="https://www.inspiredtaste.net/aboutus/">
+       About Us
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34986" id="menu-item-34986">
+      <a href="https://www.inspiredtaste.net/subscribe/">
+       Subscribe
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26129" id="menu-item-26129">
+      <a href="https://www.inspiredtaste.net/contact-us/">
+       Contact Us
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26131" id="menu-item-26131">
+      <a href="https://www.inspiredtaste.net/press/">
+       Press
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26133" id="menu-item-26133">
+      <a href="https://www.inspiredtaste.net/privacy-and-terms/">
+       Privacy &amp; Terms
+      </a>
+     </li>
+    </ul>
+    <div class="profile-icons">
+     <a class="profile-icon icon-twitter" href="https://twitter.com/inspiredtaste" target="_blank">
+     </a>
+     <a class="profile-icon icon-facebook" href="https://www.facebook.com/inspiredtaste" target="_blank">
+     </a>
+     <a class="profile-icon icon-instagram" href="https://www.instagram.com/inspiredtaste/" target="_blank">
+     </a>
+     <a class="profile-icon icon-pinterest" href="https://www.pinterest.com/inspiredtaste/" target="_blank">
+     </a>
+     <a class="profile-icon icon-youtube" href="https://www.youtube.com/user/inspiredtaste" target="_blank">
+     </a>
+     <a class="profile-icon icon-rss" href="https://www.inspiredtaste.net/feed/" target="_blank">
+     </a>
+    </div>
+    <div class="text_box">
+     <p class="attribution">
+      © 2009-2021
+      <a href="/">
+       Inspired Taste, Inc.
+      </a>
+      <br/>
+      <a href="https://ninacross.com/" target="_blank">
+       Custom Design
+      </a>
+      by Nina Cross
+      <br/>
+      <br/>
+      <a class="optanon-toggle-display" href="#">
+       Do Not Sell My Information
+      </a>
+     </p>
+    </div>
+   </div>
+  </div>
+  <noscript>
+   <style>
+    .lazyload{display:none;}
+   </style>
+  </noscript>
+  <script data-noptimize="1">
+   window.lazySizesConfig=window.lazySizesConfig||{};window.lazySizesConfig.loadMode=1;
+  </script>
+  <script async="" data-noptimize="1" src="https://www.inspiredtaste.net/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.9.5">
+  </script>
+  <div class="adgrid ad_adhesion" data-adgrid-iuparts="/16916776/inspiredtaste/adhesion">
+  </div>
+  <script async="" src="https://console.adgrid.io/adgrid-build/ad-grid-inspiredtaste-net.js">
+  </script>
+  <script defer="" src="https://www.inspiredtaste.net/wp-content/cache/autoptimize/js/autoptimize_adfeb905ab545e881d4620cf0f454047.js">
+  </script>
+ </body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1642883992 -->
+
